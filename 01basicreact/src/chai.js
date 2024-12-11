@@ -1,6 +1,10 @@
+
+
 function Chai() {
     return(
-        <h3>chai is ready</h3>
+        <h2>chai aur react</h2>
     )
+    
 }
+
 export default Chai
